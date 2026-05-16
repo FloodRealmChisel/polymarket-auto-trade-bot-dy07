@@ -1,4 +1,4 @@
-# 
+# Polymarket rare bot: risk-management & arbitrage-detection is the best Polymarket bot, featuring risk-management and arbitrage-detection. Smart, fast, and optimized for trading on
 
 
 
